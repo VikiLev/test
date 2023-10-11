@@ -1,0 +1,14 @@
+"Ticket ID",Description,Status,Priority,"Agent ID","Agent Name","Agent Email","Contact ID","Contact Name","Contact Email","Group ID","Group Name","Company ID","Company Name",Comments,"Created At"
+1,"Sample ticket: Meet the ticket",open,normal,,,,,,,,,,,,2023-10-11T16:18:28Z
+2,"SAMPLE TICKET: Audio keeps disconnecting",open,normal,,,,,,,,,,,,2023-10-11T16:19:42Z
+3,"SAMPLE TICKET: Unable to see chat",open,normal,,,,,,,,,,,,2023-10-11T16:19:43Z
+4,"SAMPLE TICKET: Missing calls",open,normal,,,,,,,,,,,,2023-10-11T16:19:44Z
+5,"SAMPLE TICKET: Saving meeting chat conversations",open,normal,,,,,,,,,,,,2023-10-11T16:19:45Z
+6,"SAMPLE TICKET: Live captions during meetings",open,normal,,,,,,,,,,,,2023-10-11T16:19:46Z
+7,"SAMPLE TICKET: Error joining meetings",open,normal,,,,,,,,,,,,2023-10-11T16:19:47Z
+8,"SAMPLE TICKET: Did not receive password recovery email",open,normal,,,,,,,,,,,,2023-10-11T16:19:48Z
+9,"SAMPLE TICKET: Remove background, urgent",open,normal,,,,,,,,,,,,2023-10-11T16:19:49Z
+10,"SAMPLE TICKET: Video off by default",open,normal,,,,,,,,,,,,2023-10-11T16:19:50Z
+11,"SAMPLE TICKET: Blurred background not available",open,normal,,,,,,,,,,,,2023-10-11T16:19:51Z
+12,"SAMPLE TICKET: Bulk upload users",open,normal,,,,,,,,,,,,2023-10-11T16:19:51Z
+13,"SAMPLE TICKET: How to mute participant",open,normal,,,,,,,,,,,,2023-10-11T16:19:52Z
